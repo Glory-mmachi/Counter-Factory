@@ -16,7 +16,7 @@ node calculator.js
 Example
 
 What operation do you want to perform: 1
- Please input in this format: 3.5,2
+ Please input in this format: 3.5+2
  Ans: 5.5
 
 Test With
@@ -24,4 +24,3 @@ Test With
 -Decimals
 -Division by zero
 -Invalid formats (abc, 4,,5)
-
